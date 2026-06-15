@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^25.9.3",
+    "save-dev": "^0.0.1-security",
+    "typescript": "^6.0.3",
+    "name": "jogoluta",
+    "version": "1.0.0",
+    "type": "module"
+  }
+}
